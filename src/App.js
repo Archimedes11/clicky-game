@@ -108,7 +108,7 @@ class App extends Component {
 ))
     return (
       <Wrapper>
-      <Title>Community Clicky Game</Title>
+      <Title>Presidential Clicky-Game</Title>
 
       <h3 className="scoreSummary">
           {this.state.msg}
