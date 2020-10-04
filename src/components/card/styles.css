@@ -1,7 +1,7 @@
 .card {
-    background: #fff;
+    background: 0,0,0,0;
     border-radius: 2px;
-    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    box-shadow: 0 -200px 100px #999;
     text-align: left;
     justify-content: center;
 }
