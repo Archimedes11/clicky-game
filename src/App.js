@@ -6,8 +6,6 @@ import Card from "./components/card"
 import matches from "./cards.json"
 
 
-
-
 let correctGuesses = 0;
 let best = 0;
 let msg = "Click on a picture to gain points! But don't choose the same one twice or you will lose!"
