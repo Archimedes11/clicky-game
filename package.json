@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/Archimedes11clicky-game/issues"
   },
-  "homepage": "https://github.com/Archimedes11/clicky-game",
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",
