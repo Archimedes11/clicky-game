@@ -98,9 +98,6 @@ class App extends Component {
 };
 
 
-
-  
-
   render(){ let mappedCard = this.state.matches.map(match => (
     <Card
         setClicked={this.setClicked}
