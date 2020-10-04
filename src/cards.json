@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/troy-barnes.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/starburns.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/shirley-bennett.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/peirce-hawthorne.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/leonard.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/abed-nadir.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/annie-eddison.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/annies-boobs.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/ben-chang.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/britta-perry.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/craig-pelton.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/jeff-winger.jpg",
+    "clicked": false
+}
+]
