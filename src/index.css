@@ -14,4 +14,6 @@ code {
 
 body {
   background-image: url("https://i.pinimg.com/564x/cb/42/d9/cb42d93b2b97380325b6e6f101174c6c.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }

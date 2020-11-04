@@ -117,6 +117,7 @@ class App extends Component {
           <br />
           Best Score: {this.state.best} 
       </h3>
+  
       <div className="container">
       <div className="row">
      {mappedCard}

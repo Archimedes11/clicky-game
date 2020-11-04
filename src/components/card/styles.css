@@ -9,11 +9,17 @@
 .card>.img-container {
     overflow: hidden;
     text-align: center;
-    background: black;
+    /* background: black; */
     justify-content: center;  
     margin: 20px;   
 }
 
 .card>.img-container>img {
-    width: 150px;   
+    width: 300px;   
 }
+
+
+
+
+
+

@@ -11,10 +11,6 @@ app.use(express.json());
   app.use(express.static(publicPath));
 // }
 
-// Define API routes here
-
-// Send every other request to the React app
-// Define any API routes before this runs
 app.get("*", (req, res) => {
   res.sendFile(path.join(publicPath, "index.html"));
 });
